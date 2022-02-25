@@ -8,8 +8,8 @@ function scrollHeader() {
 window.addEventListener('scroll', scrollHeader);
 
 /*=============== SERVICES MODAL ===============*/
-const modalViews = document.querySelectorAll('.services__modal'),
-  modalBtns = document.querySelectorAll('.services__button'),
+const modalViews = document.querySelectorAll('.work__modal'),
+  modalBtns = document.querySelectorAll('.work__button'),
   modalClose = document.querySelectorAll('.services__modal-close');
 
 let modal = function (modalClick) {
