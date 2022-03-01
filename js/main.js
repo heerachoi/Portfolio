@@ -91,6 +91,7 @@ function scrollActive() {
   });
 }
 window.addEventListener('scroll', scrollActive);
+
 /*=============== LIGHT DARK THEME ===============*/
 const themeButton = document.getElementById('theme-button');
 const lightTheme = 'light-theme';
