@@ -705,6 +705,7 @@ font-size: 0.1;
   font-size: 1.5rem;
   color: var(--first-color);
   cursor: pointer;
+  /* position: fixed; */
 }
 
 .project__img__description {
